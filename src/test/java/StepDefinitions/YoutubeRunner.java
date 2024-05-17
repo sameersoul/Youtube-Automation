@@ -5,7 +5,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-    features = "C:\\Users\\Sameer\\eclipse-workspace\\Youtube\\src\\test\\resources\\Features\\Youtube_search.feature",
+    features = "C:\\Users\\Sameer\\eclipse-workspace\\Youtube\\src\\test\\resources\\Features\\Youtube_PlayVideo.feature",
     glue = "StepDefinitions",
     plugin = {
         "pretty",

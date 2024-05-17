@@ -5,5 +5,5 @@ Feature: YouTube Search
 
   Scenario: Search for a video
     Given I am on the YouTube homepage
-    When I search for "Selenium testing"
-    Then I should see search results for "Selenium testing"
+    When I search for "Tom and Jerry"
+    Then I should see search results for "Tom and Jerry"
